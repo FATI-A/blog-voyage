@@ -16,7 +16,23 @@ footer{
 .link{
     padding-top: 100px;
 }
+
 .card{
     height:660px;
     width: 660px;
+
+.link-item {
+    padding: 0px 30px;
+    text-decoration: none;
+    color:var(--couleur-light);
+    }
+.navbar-brand{
+    color: var(--couleur-light);
+}
+.about{
+    color: var(--couleur-light);
+}
+.para{
+    font-size: 1.3em;
+
 }

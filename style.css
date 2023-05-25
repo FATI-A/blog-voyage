@@ -10,8 +10,6 @@
 footer{
     background-color: var(--couleur-light);
     padding-top: 30px;
-   
-    
 }
 .link{
     padding-top: 100px;
@@ -25,7 +23,7 @@ footer{
 .link-item {
     padding: 0px 30px;
     text-decoration:none;
-    color:var(--couleur-light);
+color:var(--couleur-light);
     }
 .navbar-brand{
     color: var(--couleur-light);

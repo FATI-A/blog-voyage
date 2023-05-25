@@ -19,7 +19,5 @@ $('.cube-switch .switch').click(function () {
 		$('.carousel-inner').addClass('portfoshadow');
 
 		$('.first').carousel('cycle');
-
-
 	}
 });

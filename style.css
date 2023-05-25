@@ -23,7 +23,7 @@ footer{
 
 .link-item {
     padding: 0px 30px;
-    text-decoration: none;
+    text-decoration:none;
     color:var(--couleur-light);
     }
 .navbar-brand{

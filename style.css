@@ -10,22 +10,48 @@
 footer{
     background-color: var(--couleur-light);
     padding-top: 30px;
-   
-    
 }
 .link{
     padding-top: 100px;
 }
+body{
+    background-color: var(--couleur-principale);
+}
+
+.bg-1{
+   background-color: var(--couleur-light);
+
+}
+
+.bg-2{
+    background-color: var(--couleur-principale)
+    
+}
+.bg-3{
+    background-color: var(--couleur-light)
+    
+}
+
+.myp{
+    font-size: 1.3em;
+}
+
+.myh1{
+    color:black;
+}
+.myh2{
+    color: var(--couleur-principale);
+}
+
 
 .card{
     height:660px;
     width: 660px;
 }
-
 .link-item {
     padding: 0px 30px;
     text-decoration:none;
-    color:var(--couleur-light);
+color:var(--couleur-light);
     }
 .navbar-brand{
     color: var(--couleur-light);
@@ -37,3 +63,4 @@ footer{
     font-size: 1.3em;
 
 }
+
